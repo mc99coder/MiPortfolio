@@ -1,0 +1,14 @@
+.bg-black{background-color:#0000;}
+.list-group{
+    --bs-list-group-bg:transparent;
+padding:0%
+       }
+i.fa-brands.fa-linkedin.fa-2x.text-white:hover{
+    --bs-text-opacity: 1;
+    color: rgb(135, 46, 161) !important;
+
+}
+i.fa-brands.fa-github.fa-2x.text-white:hover{
+    --bs-text-opacity: 1;
+    color: rgb(135, 46, 161) !important;
+}

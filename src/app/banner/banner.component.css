@@ -1,0 +1,26 @@
+section.banner{
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.007),
+        rgba(0, 0, 0, 0.411)
+
+    ), url(../../assets/img/month_universe_space_heaven.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    -msn-background-size: cover;
+    width: 100%;
+    background-color: #EAE7DC;
+    
+
+
+
+}
+
+h1.intro{
+    padding-top: 20%;
+    font-size: 3rem;
+}
