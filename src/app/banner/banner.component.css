@@ -13,8 +13,7 @@ section.banner{
     -o-background-size:cover;
     -msn-background-size: cover;
     width: 100%;
-    background-color: #EAE7DC;
-    
+        
 
 
 
@@ -23,4 +22,5 @@ section.banner{
 h1.intro{
     padding-top: 20%;
     font-size: 3rem;
+    color: white;
 }
