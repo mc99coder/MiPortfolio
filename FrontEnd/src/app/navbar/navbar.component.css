@@ -2,7 +2,6 @@
 .list-group{
     --bs-list-group-bg:transparent;
 padding:0%
-
        }
 i.fa-brands.fa-linkedin.fa-2x.text-white:hover{
     --bs-text-opacity: 1;
@@ -16,13 +15,18 @@ i.fa-brands.fa-github.fa-2x.text-white:hover{
 i.fa-solid.fa-user-lock.fa-2x.text-white:hover{
     --bs-text-opacity: 1;
     color: rgb(135, 46, 161) !important;
-    min-width: 0em;
-       }
-@media (max-width: 575px)
-.list-group.list-group-horizontal {
-    flex-direction: column;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 0.2em;
+           }
+
+  @media (max-width: 575px)
+           .list-group.list-group-horizontal {
+               flex-direction: column;
+               display: flex;
+               flex-direction: column;
+               align-items: center;
+               margin: 0.2em;
+           }
+.navbar.bg-black {
+    margin-right: 0; 
 }
+
+
